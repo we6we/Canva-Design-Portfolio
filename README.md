@@ -27,3 +27,5 @@ A poster designed to communicate key information visually.
 - Content Presentation
 
 ## Author
+Rehema Rizpha
+
